@@ -21,5 +21,5 @@ L = 1/N * SUM i=1..n (DELTAi)
 DQN ALGORITHM
 [...]
 
-References:
+# References:
 https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf
